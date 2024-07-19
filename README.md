@@ -1,7 +1,7 @@
 # Hello! I am Pouya Mohammadi 😄<br>
 
 📚 I am a CE student at Amirkabir University of Technology. <br>
-💻 I am a frontend developer!<br>
+💻 I am a software developer!<br>
 💥 Right now I am going deeper into frontend engineering field!
 <br>
 
@@ -40,7 +40,7 @@ Skills that I obtained along the way :)
 ```javascript
 const lifeProps = {
   foods: [...allHumanFoodsThatIsNotToxic],
-  skill: ["Frontend", "Software", "Learning"],
+  skill: ["Software", "Web", "Data", "Learning"],
   interest: ["React Native", "Diagrams", "Neural Network", "ML", "IoT"],
   loving: ["Pool pool business money", "myself"]
   games: ["APEX", "FIFA"],
