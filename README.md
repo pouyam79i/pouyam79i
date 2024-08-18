@@ -47,20 +47,20 @@ const lifeProps = {
   fun: ["Go out with friends or family", "extra food", "movies"],
 };
 
-const daily = ({ foods, skill, interest, loving, games, fun }: props) => {
+const daily = ({ foods, skill, interest, loving, games, fun }) => {
   eat(foods);
   work(skill);
   study(interest);
   love(loving);
   // TODO: uncomment below
   // gym();
-  game(games);
+  // game(games);  // no time
   enjoy(fun);
   sleep();
 };
 
 while (isAlive()) {
-  daily();
+  daily(lifeProps);
 }
 ```
 
