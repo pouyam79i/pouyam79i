@@ -40,8 +40,8 @@ Skills that I obtained along the way :)
 ```javascript
 const lifeProps = {
   foods: [...allHumanFoodsThatIsNotToxic],
-  skill: ["Software", "Web", "Data", "Learning"],
-  interest: ["React Native", "Diagrams", "Neural Network", "ML", "IoT"],
+  skill: ["Software", "Web", "Cloud Engineering", "Data", "Learning"],
+  interest: ["Web", "Cloud Engineering", "React Native", "Diagrams", "Neural Network", "ML"],
   loving: ["Pool pool business money", "PC"]
   games: ["APEX", "FIFA"],
   fun: ["Go out with friends or family", "extra food", "movies"],
