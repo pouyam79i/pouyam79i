@@ -42,7 +42,7 @@ const lifeProps = {
   foods: [...allHumanFoodsThatIsNotToxic],
   skill: ["Software", "Web", "Cloud Engineering", "Data", "Learning"],
   interest: ["Web", "Cloud Engineering", "React Native", "Diagrams", "Neural Network", "ML"],
-  loving: ["Pool pool business money", "PC"]
+  loving: ["Pool pool business money", "PC"],
   games: ["APEX", "FIFA"],
   fun: ["Go out with friends or family", "extra food", "movies"],
 };
