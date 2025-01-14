@@ -41,7 +41,7 @@ Skills that I obtained along the way :)
 const lifeProps = {
   foods: [...allHumanFoodsThatIsNotToxic],
   skill: ["Software", "Web", "Cloud Engineering", "Learning"],
-  interest: ["Web", "Cloud Engineering", "Devops", "Vue.js"],
+  interest: ["Web", "Cloud Engineering", "DevOps", "Vue.js"],
   loving: ["Pool pool business money", "PC"],
   games: ["APEX", "FIFA"],
   fun: ["Go out with friends or family", "extra food", "movies"],
