@@ -52,7 +52,7 @@ const daily = ({ foods, skill, interest, loving, games, fun }) => {
   work(skill);
   study(interest);
   love(loving);
-  // TODO: uncomment below
+  // TODO: uncomment below ASAP
   // gym();
   // game(games);  // no time
   enjoy(fun);
