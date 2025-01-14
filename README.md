@@ -39,12 +39,12 @@ Skills that I obtained along the way :)
 
 ```javascript
 const lifeProps = {
-  foods: [...allHumanFoodsThatIsNotToxic],
-  skill: ["Software", "Web", "Cloud Engineering", "Learning"],
-  interest: ["Web", "Cloud Engineering", "DevOps", "Vue.js"],
-  loving: ["Pool pool business money", "PC"],
-  games: ["APEX", "FIFA"],
-  fun: ["Go out with friends or family", "extra food", "movies"],
+  foods:     [...allHumanFoodsThatIsNotToxic],
+  skill:     ["Software", "Web", "Cloud Engineering", "Learning"],
+  interest:  ["Web", "Cloud Engineering", "DevOps", "Vue.js"],
+  loving:    ["Pool pool business money", "PC"],
+  games:     ["APEX", "FIFA"],
+  fun:       ["Go out with friends or family", "extra food", "movies"],
 };
 
 const daily = ({ foods, skill, interest, loving, games, fun }) => {
