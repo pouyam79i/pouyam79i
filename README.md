@@ -43,7 +43,7 @@ const lifeProps = {
   skill:     ["Software", "Web", "Cloud Engineering", "Learning"],
   interest:  ["Web", "Cloud Engineering", "DevOps", "Vue.js"],
   loving:    ["Pool pool business money", "PC"],
-  games:     ["APEX", "FIFA"],
+  games:     ["APEX", "FIFA", "CS2"],
   fun:       ["Go out with friends or family", "extra food", "movies"],
 };
 
@@ -52,9 +52,9 @@ const daily = ({ foods, skill, interest, loving, games, fun }) => {
   work(skill);
   study(interest);
   love(loving);
-  // TODO: uncomment below ASAP
-  // gym();
-  // game(games);  // no time
+  gym();
+  swimming()
+  game(games); 
   enjoy(fun);
   sleep();
 };
