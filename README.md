@@ -1,8 +1,8 @@
 # Hello! I am Pouya Mohammadi 😄<br>
 
-📚 I am a CE student at Amirkabir University of Technology. <br>
 💻 I am a software developer!<br>
-💥 Right now I am going deeper into frontend engineering field!
+📚 Bs CE@AUT.<br>
+💥 In love with cloud.
 <br>
 
 <!-- ## Focused Skills 💥
