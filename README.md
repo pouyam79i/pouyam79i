@@ -1,8 +1,8 @@
 # Hello! I am Pouya Mohammadi 😄<br>
 
-💻 I am a software developer!<br>
-📚 Bs CE@AUT.<br>
-💥 In love with cloud.
+💻 I am a software engineer!<br>
+📚 Graduated Bs CE@AUT.<br>
+💥 In love with Cloud Engineering.
 <br>
 
 <!-- ## Focused Skills 💥
@@ -37,30 +37,55 @@ Skills that I obtained along the way :)
 
 ## Life Code
 
-```javascript
-const lifeProps = {
-  foods:     [...allHumanFoodsThatIsNotToxic],
-  skill:     ["Software", "Web", "Cloud Engineering", "Learning"],
-  interest:  ["Web", "Cloud Engineering", "DevOps", "Vue.js"],
-  loving:    ["Pool pool business money", "PC"],
-  games:     ["APEX", "FIFA", "CS2"],
-  fun:       ["Go out with friends or family", "extra food", "movies"],
-};
+```golang
+package life
 
-const daily = ({ foods, skill, interest, loving, games, fun }) => {
-  eat(foods);
-  work(skill);
-  study(interest);
-  love(loving);
-  gym();
-  swimming()
-  game(games); 
-  enjoy(fun);
-  sleep();
-};
+type LifeProps struct {
+	Foods     []string
+	Skills    []string
+	Interests []string
+	Passions  []string
+	Sports    []string
+	Fun       []string
+}
 
-while (isAlive()) {
-  daily(lifeProps);
+func (props *LifeProps) work() {
+	use(*props.Skills)
+	use(*props.Interests)
+	use(*props.Passions)
+}
+
+func (props *LifeProps) practice() {
+	use(*props.Sports)
+}
+
+func (props *LifeProps) fun() {
+	use(*props.Fun)
+	use(*props.Interests)
+}
+
+func (props *LifeProps) recharge() {
+	use(*props.Foods)
+	have("sleep", "rest")
+}
+
+var MyProps = &LifeProps{
+	Foods:     []string{"All human foods that is not toxic"},
+	Skills:    []string{"Software", "Web", "Cloud Engineering", "Learning"},
+	Interests: []string{"Web", "Cloud Engineering", "DevOps", "Vue.js"},
+	Passions:  []string{"Pool pool business money", "PC"},
+	Sports:    []string{"Swimming", "Body building"},
+	Fun:       []string{"Go out with friends or family", "extra food", "movies"},
+}
+
+func Live() {
+	for isAlive() {
+		MyProps.work()
+		MyProps.practice()
+		MyProps.fun()
+		MyProps.recharge()
+		MyProps.reset()
+	}
 }
 ```
 
