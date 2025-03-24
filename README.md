@@ -1,9 +1,20 @@
-# Hello! I am Pouya Mohammadi 😄<br>
+# Hi! I am Pouya 😄<br>
 
 💻 I am a software engineer!<br>
 📚 Graduated Bs CE@AUT.<br>
 💥 In love with Cloud Engineering.
-<br>
+
+<!-- SET og_mode=true.
+
+## OG mode props
+
+	no windows only linux (any unix-like os)
+	no gui editor
+	use only terminal
+	preferred shell -> zsh
+	preferred editor -> vim -->
+
+<!-- <br> -->
 
 <!-- ## Focused Skills 💥
 
@@ -35,6 +46,7 @@ Skills that I obtained along the way :)
 </div>
 <br> -->
 
+<!--
 ## Life Code
 
 ```golang
@@ -87,7 +99,7 @@ func Live() {
 		MyProps.reset()
 	}
 }
-```
+``` -->
 
 ## Connect with me 💬
 
