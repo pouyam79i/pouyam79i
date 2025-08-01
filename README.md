@@ -1,8 +1,7 @@
-# Hi! I am Pouya 😄<br>
+# Hi!<br>
 
-💻 I am a software engineer!<br>
-📚 Graduated Bs CE@AUT.<br>
-💥 In love with Cloud Engineering.
+Going lower...<br>
+Seeking reality...
 
 <!-- SET og_mode=true.
 
